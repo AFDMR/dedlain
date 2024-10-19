@@ -14,3 +14,4 @@ print("20 yoshdan kichik talabalar:\n", young_people)
 
 df['Yoshi'] += 1
 print("Yangilangan DataFrame:\n", df)
+yangi
